@@ -47,7 +47,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <h2 className="text-5xl md:text-6xl font-bold leading-tight">
-                <span className="bg-gradient-to-r from-blue-600 via-blue-700 to-blue-900 bg-clip-text text-transparent">Excellence in</span>
+                <span className="bg-gradient-to-r from-blue-600 via-blue-700 to-blue-900 bg-clip-text text-transparent">Excellence in collage</span>
                 <br />
                 <span className="text-gray-900">Technical Education</span>
               </h2>
